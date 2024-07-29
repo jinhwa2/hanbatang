@@ -4,7 +4,9 @@
 ![MIT License][license-shield] ![Repository Size][repository-size-shield] ![Issue Closed][issue-closed-shield]
 
 <!--프로젝트 대문 이미지-->
-![Project Title](./img/spring_boot_thymeleaf_title.png)
+![image](https://github.com/user-attachments/assets/7d48a7f8-32d1-456a-ba25-a70d845cdc79)
+
+
 
 <!--프로젝트 버튼-->
  [![Readme in English][readme-eng-shield]][readme-eng-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
@@ -30,8 +32,9 @@
 *다음 내용을 고려하여 프로젝트에 대한 **전반적인 정보**를 적으세요.*
 
 - ❗️짧은❗️ 도입부/제작 동기
-- 무슨 프로젝트인지
-- 왜 이 프로젝트를 사용해야하는지
+- 한바탕은 프리미엄 소고기 판매 사이트로, 국내 및 국외 높은 등급의 소고기를 부위 별로 판매하는 사이트 입니다.
+- 이 프로젝트는 고품질의 소고기를 보고, 소비자가 원하는 고개를 구매할 수 있는 맞춤형 플랫폼을 제공하여 사용자들이 소고기에 대한
+- 설명을 확인하고 구매할 수 있게 합니다.
 
 ## Features
 *강조하고 싶은 **주요 기능**이나 **차별성 있는 특징**을 적으세요.*
@@ -110,7 +113,7 @@ const API_KEY = "<Your API key>";
 
 
 # [6] Contact
-- 📧 본인이메일@gmail.com
+- 📧 juingong34@gmail.com
 - 📋 [https://www.github.com](https://www.github.io/contact)
 
 
